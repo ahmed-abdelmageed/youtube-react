@@ -12,7 +12,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://www.pinclipart.com/picdir/big/526-5268867_youtube-play-button-clip-art-transparent-background-video.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },

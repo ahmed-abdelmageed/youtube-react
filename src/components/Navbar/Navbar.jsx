@@ -25,7 +25,7 @@ const Navbar = () => (
       }}
     >
         <img src={logo} alt="logo" height={45} />
-        <h3 style={{ color: "white" , fontFamily: "cursive" }}>Looky</h3>
+        {/* <h3 style={{ color: "white" , fontFamily: "cursive" }}>Looky</h3> */}
     </Link>
     <SearchBar />
   </Stack>
